@@ -2,9 +2,9 @@
 
 ## Fullstack Engineer Takehome Assignment
 
-## Update
+** Update **
 
-#You Can Either Use the regular Elixir Backend or switch to the Rails backend
+** You Can Either Use the regular Elixir Backend or switch to the Rails backend **
 
 * Simply Clone the [`Fizzbuzz-api`](https://github.com/chrisjcarrillo/fizzbuzz-api)
 * Change the `endpointUrl` variable value to `http://localhost:3000/api/fizzbuzz?param=`
