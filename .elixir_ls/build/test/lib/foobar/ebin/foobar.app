@@ -1,6 +1,6 @@
 {application,foobar,
              [{applications,[kernel,stdlib,elixir,logger,runtime_tools,
-                             gettext,jason,phoenix_pubsub,phoenix_html,
+                             gettext,jason,params,phoenix_pubsub,phoenix_html,
                              plug_cowboy,phoenix]},
               {description,"foobar"},
               {modules,['Elixir.Foobar','Elixir.Foobar.Application',

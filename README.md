@@ -2,6 +2,15 @@
 
 ## Fullstack Engineer Takehome Assignment
 
+## Update
+
+#You Can Either Use the regular Elixir Backend or switch to the Rails backend
+
+* Simply Clone the [`Fizzbuzz-api`](https://github.com/chrisjcarrillo/fizzbuzz-api)
+* Change the `endpointUrl` variable value to `http://localhost:3000/api/fizzbuzz?param=`
+* Start the API endpoint with `rails s -p 3000`
+* Voila
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
